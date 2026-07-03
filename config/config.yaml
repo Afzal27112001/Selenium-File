@@ -37,4 +37,7 @@ environments:
     username: "prod_user"
     password: "prod_pass"
 
-    wego:
+  Linen:
+    base_url: "https://www.linenclub.com/"
+    username: "afzalpasham274@gmail.com"
+    password: "Afzal@123"
